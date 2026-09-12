@@ -1,0 +1,28 @@
+Package: math-skills-count
+Title: Repository of Code for My 'Story in the Numbers' Substack Post
+Version: 1.0
+Authors@R: 
+    person("Tabitha", "Peter", , "tabitha.peter15@gmail.com", role = c("aut", "cre"))
+Description: Stores the scripts I used for creating the graphics/tables that are included in the associated Substack post. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
+Depends: 
+    dplyr,
+    fs,
+    forcats,
+    ggplot2,
+    glue,
+    gtsummary, 
+    here,
+    janitor,
+    knitr,
+    purrr,
+    readxl,
+    scales,
+    stringr,
+    tidyr,
+    viridis
+

@@ -1,0 +1,9 @@
+.Rproj.user
+*.Rproj
+ref/
+scripts/scratch
+*.png
+*.jpg
+*.pdf
+.DS_Store
+.Rbuildignore
